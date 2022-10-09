@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    justify-content: center;
+
+    /* background: -webkit-gradient(linear, left top, left bottom, from(var(--gray)), to(var(--black))); */
+    /* background-color: var(--gray); */
+    background-image: url(../../img/bg-teste02.png);
+
+    /* valor para teste */
+    height: auto;
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

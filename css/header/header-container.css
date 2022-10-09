@@ -1,7 +1,23 @@
 .header__container {
     display: flex;
-    justify-content: space-around;
     align-items: center;
-    width: 100%;
+    justify-content: space-around;
+
     height: 70%;
+    width: 100%;
+}
+
+.header__container--dois {
+    display: flex;
+    justify-content: flex-end;
+
+    height: 50%;
+    width: 60%;
+}
+
+.header__container--tres {
+   display: flex;
+
+    height: 30%;
+    width: 100%;
 }

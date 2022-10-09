@@ -1,8 +1,12 @@
 .header__button {
+    background-color: var(--orange);
     background-image: url(../../img/icone-busca.png);
-    background-color: orange;
-    background-size: 70% 70%;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 70% 70%;
+
+    border: none;
+    border-left: 3px solid black;
+
     width: 7%;
 }
