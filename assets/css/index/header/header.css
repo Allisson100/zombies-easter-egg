@@ -1,0 +1,16 @@
+.header {
+    background: -webkit-gradient(linear, left top, left bottom, from(var(--black)), to(var(--gray)));
+    
+    border-bottom: 4px solid var(--black);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 150px;
+
+    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+
+}
