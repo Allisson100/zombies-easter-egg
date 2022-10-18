@@ -1,0 +1,12 @@
+.main__subtitle {
+    color: white;
+    font-size: 3rem;
+    padding: 3rem 3rem .5rem 4rem;
+    text-align: center;
+}
+
+.--second {
+    padding: 0;
+    font-size: 2rem;
+    border-bottom: none;
+}
